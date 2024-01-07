@@ -1,16 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Welcome%2C+I'm+Oscar+Antia;Software+Developer)](https://git.io/typing-svg)
 
-
-<h1 align="center">Github Metrics </h1><p align="center">
-<img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devoscar-antia&theme=github_dark" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=devoscar-antia&theme=whatsapp-dark2&hide_border=true&border_radius=4.6" alt="GitHub Streak">
-  </a>
-</p>
-  
   <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devoscar-antia&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
 </div> 
 
