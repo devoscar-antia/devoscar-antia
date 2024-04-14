@@ -4,12 +4,6 @@
 </div> 
 
 
-<p align="center">
-    <br/><br/><a href="https://www.linkedin.com/in/oscarantia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A0A0B?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" /></a>
-    <a href="https://www.instagram.com/oscarantia/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0A0A0B?logo=instagram&style=for-the-badge&logoColor=white" alt="Instagram Badge" /></a>
-    <a href="https://twitter.com/yooscar13" target="_blank"><img src="https://img.shields.io/badge/-Twitter-0A0A0B?logo=twitter&style=for-the-badge&logoColor=white" alt="Twitter Badge" /></a>
-</p>
-
 ## Tecnologias 💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
