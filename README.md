@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Oscar, Software developer with a passion for backend development.
+I'm Oscar, Software developer
 
 🌟 Skilled in:
 
