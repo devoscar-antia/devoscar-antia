@@ -1,6 +1,6 @@
-### Hi there! 👋
+### Hi there! 
 
-I'm Oscar, Software developer.
+I'm Oscar Antia, Software developer.
 
 ---
 
