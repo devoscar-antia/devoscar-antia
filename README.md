@@ -1,9 +1,9 @@
 <!-- Level 3: Add custom code -->
 # 👋 Hi, I'm Oscar Antia!
 
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech.
+👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech.<br/>
 👩🏻‍🎓 Studied  at the University of PUJ software engineering specialization, Calid<br/>
-💭 Currently learning about Spring Boot React JS Full-Stack Course
+💭 Currently learning about Spring Boot React JS Full-Stack Course<br/>
 ---
 
 ### 🏆 Github Stats:
