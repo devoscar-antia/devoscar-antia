@@ -1,5 +1,5 @@
 <!-- Level 3: Add custom code -->
-# 👋 Hi, I'm Oscar Antia!
+# 👋 Hi, I'm Oscar Fredy Antia Chicaiza!
 
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech.<br/>
 👩🏻‍🎓 Studied  at the University of PUJ software engineering specialization, Calid<br/>
