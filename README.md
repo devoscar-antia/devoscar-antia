@@ -1,5 +1,5 @@
 <!-- Level 3: Add custom code -->
-# 👋 Hi, I'm Oscar Fredy Antia Chicaiza!
+# 👋 ¡Hi! Soy Oscar Fredy Antia Chicaiza
 
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech.<br/>
 👨🏼‍🎓 Studied  at the University of PUJ software engineering specialization, Cali<br/>
@@ -40,7 +40,7 @@
 <br />
 ---
 
-📫 Reach out to me on [Twitter](https://x.com/yooscar13) or connect with me on [LinkedIn](https://www.linkedin.com/in/oscarantia/).
+📫 Reach out to me on [Instagram](https://www.instagram.com/oscarantia/) or connect with me on [LinkedIn](https://www.linkedin.com/in/oscarantia/).
 
 📊 Explore my latest projects below 👇
 
