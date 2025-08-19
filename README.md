@@ -1,4 +1,4 @@
-<!-- Level 3: Add custom code -->ç
+<!-- Level 3: Add custom code -->
 # 👋 ¡Hi! Soy Oscar Fredy Antia Chicaiza
 
 ## About me
