@@ -1,10 +1,15 @@
-<!-- Level 3: Add custom code -->
+<!-- Level 3: Add custom code -->ç
 # 👋 ¡Hi! Soy Oscar Fredy Antia Chicaiza
 
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech.<br/>
-👨🏼‍🎓 Studied  at the University of PUJ software engineering specialization, Cali<br/>
-💭 Currently learning about Spring Boot React JS Full-Stack Course<br/>
----
+## 🇬🇧 About me
+👩🏻‍💻Software Engineer sharing my journey and learnings in tech.  
+👨🏼‍🎓Studied at PUJ University in Cali.  
+💭Currently learning Spring Boot + React JS Full-Stack.  
+
+## 🇪🇸 Sobre mí
+👩🏻‍💻Ingeniero de software compartiendo mi aprendizaje en tecnología.  
+Estudié en la PUJ de Cali.  
+Actualmente aprendiendo Spring Boot + React JS Full-Stack.  
 
 ### 🏆 Github Stats:
 
