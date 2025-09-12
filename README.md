@@ -7,10 +7,6 @@
 ⚙ Soy un **ingeniero de software curioso y creativo**.  
 🚀 Me encanta aprender cosas nuevas, construir proyectos y compartir lo que voy descubriendo en este viaje por el mundo tech.
 
-## 🧑‍💻 About me
-⚙ I am a **curious and creative software engineer**.  
-🚀 I love learning new things, building projects, and sharing what I discover on this journey through the tech world.
-
 ## ⚡ Tech Stack  
 🧰 Algunas de las tecnologías y herramientas con las que trabajo:
 
