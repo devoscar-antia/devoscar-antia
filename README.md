@@ -3,16 +3,10 @@
 
 ## About me
 👩🏻‍💻Software Engineer sharing my journey and learnings in tech.  
-👨🏼‍🎓Studied at PUJ University in Cali.  
-💭Currently learning Spring Boot + React JS Full-Stack.  
-
 ## Sobre mí
 👩🏻‍💻Ingeniero de software compartiendo mi aprendizaje en tecnología.  
-👨🏼‍🎓Estudié en la PUJ de Cali.  
-💭Actualmente aprendiendo Spring Boot + React JS Full-Stack.  
 
 ### 🏆 Github Stats:
-
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
