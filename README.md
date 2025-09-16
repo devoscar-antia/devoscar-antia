@@ -38,9 +38,6 @@ Me destaco por ser autodidacta, analítico y orientado a resultados; disfruto el
   <a href="https://www.linkedin.com/in/oscarantia/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/devoscar-antia" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 </div>
 
 ---
