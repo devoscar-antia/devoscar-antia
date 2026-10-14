@@ -1,4 +1,4 @@
-# ¡Hola! Soy Oscar Fredy Antia Chicaiza
+# ¡Hola! Soy Oscar Antia 
 
 ## Sobre mí
 Soy Ingeniero de Sistemas con especialización en Ingeniería de Software y experiencia en desarrollo full stack para aplicaciones web y móviles.  
