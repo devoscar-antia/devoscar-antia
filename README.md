@@ -1,4 +1,4 @@
-# ¡Hola! Soy Antia Chicaiza Oscar
+# ¡Hola! Soy  Chicaiza Oscar
 
 ## Sobre mí
 Soy Ingeniero de Sistemas con especialización en Ingeniería de Software y experiencia en desarrollo full stack para aplicaciones web y móviles.  
